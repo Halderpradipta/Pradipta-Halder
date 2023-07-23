@@ -23,7 +23,7 @@ JOBS = [
     'id' : 4,
     'title' : 'Graphic Designer',
     'location' : 'Chennai, India',
-    'salary' : 'Rs 170000'
+    'salary' : 'Rs 300000'
   }
 ]
 @app.route("/")
